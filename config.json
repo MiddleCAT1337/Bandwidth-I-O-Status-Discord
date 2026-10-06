@@ -1,0 +1,7 @@
+{
+  "token": "",
+  "updateIntervalMs": 15000,
+  "interface": null,
+  "excludePatterns": ["^docker", "^veth", "^br-", "^lo"],
+  "clearOnExit": false
+}
