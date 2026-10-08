@@ -135,9 +135,6 @@ Bandwidth-I-O-Status-Discord-main
   README.md          ไฟล์นี้
 ```
 
-## ผู้จัดทำ
-
-- ใส่ชื่อหรือรหัสนักศึกษาของคุณที่นี่ (โปรเจกต์ต้นฉบับจาก package.json ชื่อ networkstatus)
 
 ## ไลเซนส์
 
